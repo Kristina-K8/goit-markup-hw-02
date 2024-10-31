@@ -48,9 +48,7 @@ a {
 .nav-link:hover,
 .nav-link:focus,
 .address-link:hover,
-.address-link:focus,
-.business-type:hover,
-.business-type:focus {
+.address-link:focus {
   color: #404bbf;
 }
 
@@ -67,6 +65,11 @@ a {
   color: #fff;
 }
 
+.business-type:hover,
+.business-type:focus {
+  background-color: #404bbf;
+}
+
 .business-type {
   font-weight: 500;
   font-size: 16px;
@@ -77,6 +80,7 @@ a {
   cursor: pointer;
 }
 
+.benefits-item,
 .benefits-h3 {
   font-weight: 500;
   font-size: 20px;
@@ -85,6 +89,7 @@ a {
   color: #2e2f42;
 }
 
+.benefits-item,
 .benefits-p {
   font-weight: 400;
   font-size: 16px;
@@ -159,5 +164,13 @@ a {
 }
 
 .footer-logo .logo-part {
+  color: #f4f4fd;
+}
+
+.footer-p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #f4f4fd;
 }
