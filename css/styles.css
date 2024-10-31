@@ -52,11 +52,11 @@ a {
   color: #404bbf;
 }
 
-.business {
+.section-one {
   background-color: #2e2f42;
 }
 
-.business-h1 {
+.section-one-text {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -65,12 +65,12 @@ a {
   color: #fff;
 }
 
-.business-type:hover,
-.business-type:focus {
+.section-one-button:hover,
+.section-one-button:focus {
   background-color: #404bbf;
 }
 
-.business-type {
+.section-one-button {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -105,6 +105,7 @@ a {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
 }
@@ -136,7 +137,6 @@ a {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
 }
