@@ -80,7 +80,6 @@ a {
   cursor: pointer;
 }
 
-.benefits-item,
 .benefits-h3 {
   font-weight: 500;
   font-size: 20px;
@@ -89,7 +88,6 @@ a {
   color: #2e2f42;
 }
 
-.benefits-item,
 .benefits-p {
   font-weight: 400;
   font-size: 16px;
