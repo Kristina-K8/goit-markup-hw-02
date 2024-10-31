@@ -92,17 +92,19 @@ a {
 
 .team {
   background-color: #f4f4fd;
-  width: 1440px;
-  height: 732px;
 }
 
-.our-tem .portfolio {
+.our-team {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+}
+
+.team-item {
+  background-color: #ffffff;
 }
 
 .team-name {
@@ -121,6 +123,15 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+}
+
+.portfolio-h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
 }
 
 .portfolio-h3 {
