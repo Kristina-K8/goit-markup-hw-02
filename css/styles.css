@@ -48,30 +48,33 @@ a {
 .nav-link:hover,
 .nav-link:focus,
 .address-link:hover,
-.address-link:focus {
+.address-link:focus,
+.business-type:hover,
+.business-type:focus {
   color: #404bbf;
 }
 
-.solution {
+.business {
   background-color: #2e2f42;
 }
 
-.solution-h1 {
+.business-h1 {
   font-weight: 700;
-  font-size: 40px;
-  line-height: 1.07143;
+  font-size: 56px;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
 }
 
-.solution-type {
+.business-type {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 
 .benefits-h3 {
