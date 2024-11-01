@@ -132,7 +132,7 @@ a {
   color: #434455;
 }
 
-.portfolio-h2 {
+.our-portfolio {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -142,7 +142,7 @@ a {
   color: #2e2f42;
 }
 
-.portfolio-h3 {
+.portfolio-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
